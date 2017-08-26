@@ -1,3 +1,9 @@
+a {
+  font-family: Helvetica, sans-serif;
+  font-size: 18px;
+  color: white;
+}
+
 body {
   text-align: center;
 }
@@ -31,15 +37,6 @@ p {
 }
 
 .design {
-  font-family: Helvetica, sans-serif;
-  font-size: 23px;
-  font-weight: bold;
-  color: white;
-}
-
-.navlinks {
-  font-family: Helvetica, sans-serif;
-  font-size: 18px;
   color: white;
 }
 
@@ -48,4 +45,5 @@ p {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
 }
